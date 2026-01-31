@@ -83,7 +83,10 @@ Key features:
 
 - Each visual is formatted with consistent colors, labels, and tooltips to make insights clear to non‑technical stakeholders.
 
+
 <img width="1327" height="760" alt="Dashboard-1" src="https://github.com/user-attachments/assets/5f6d412e-6a50-4087-b1fa-c3ad7159923a" />
+
+
 
 <img width="923" height="409" alt="Dashboard-2" src="https://github.com/user-attachments/assets/4d053b65-fcb3-4c52-811d-0c0825cc9e75" />
 
