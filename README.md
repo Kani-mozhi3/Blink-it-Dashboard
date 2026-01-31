@@ -1,6 +1,6 @@
 # Blink-it-Dashboard
 
-## 📊 BlinkIt Sales Analytics – SQL & Power BI Project
+## 📊 BlinkIt Sales Analytics 
 A compact end‑to‑end data analytics project showcasing my skills in data cleaning, SQL analysis, and interactive dashboarding with Power BI, using a BlinkIt sales dataset (retail grocery delivery).
 
 ## 📁 Project Overview
