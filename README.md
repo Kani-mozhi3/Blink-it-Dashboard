@@ -15,7 +15,7 @@ A compact end‑to‑end data analytics project showcasing my skills in data cle
 
 ## 🧾 Dataset
 - Source: Public BlinkIt‑style retail dataset (items, outlets, sales, ratings, visibility).
-  - <a href="https://github.com/Kani-mozhi3/Customer-behaviour-Dashboard/blob/main/customer%20shopping%20data.csv"> Dataset</a>​​
+  - <a href="https://github.com/Kani-mozhi3/Blink-it-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset</a>​​
 
 - Size: ~8.5K item records across multiple outlet types (Supermarket & Grocery).
 
